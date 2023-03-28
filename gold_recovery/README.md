@@ -1,6 +1,10 @@
 # Восстановление золота
 
-[html](https://github.com/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.html) [ipynb](https://github.com/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.ipynb)
+[html on GitHub](https://github.com/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.html)  
+[ipynb on GitHub](https://github.com/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.ipynb)
+
+[html on htmlpreview](https://htmlpreview.github.io/?https://github.com/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.html)  
+[ipynb on nbviewer](https://nbviewer.org/github/alfiia-sharafutdinova/Portfolio/blob/main/gold_recovery/gold_recovery.ipynb)
 
 ## Описание
 
